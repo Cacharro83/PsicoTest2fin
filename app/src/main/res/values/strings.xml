@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Test de evaluación 2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- LAYOUT BÁSICO DE PREGUNTAS -->
+    <string name="layoutBasico_botonSiguiente">Siguiente >> </string>
+    <string name="layoutBasico_botonSiguienteFIN">FINALIZAR TEST</string>
+
+    <!-- MENSAJES DE ALERTA -->
+    <string name="layoutBasico_mensajeAlerta">A continuación aparecerán nuevas preguntas relativas al último año. Por favor haz click para continuar</string>
+    <string name="layoutBasico_mensajeAlerta1">A continuación aparecerán nuevas preguntas relativas al último año. Por favor dale click a continuar</string>
+    <string name="layoutBasico_mensajeAlerta2">A continuación aparecerá una serie de motivos por los que es posible que juegues. Por favor, señala con que frecuencia juegas por cada uno de los siguientes motivos. Haz click para continuar</string>
+    <string name="layoutBasico_mensajeAlerta3">A continuación te vamos a pedir que pienses y escribas varios acontecimientos que hayan ocurrido en tu vida en diferentes momentos. Por favor haz click para continuar</string>
+    <string name="layoutBasico_mensajeAlerta4">A continuación aparecerá una serie de preguntas. Para cada una de ellas tendrás que responder si han ocurrido en el último mes, hace 2-3 meses, hace 4-12 meses, más de 1 año, o nunca. Ayudate de los tres acontecimientos en los que has pensado para orientarte en el tiempo"</string>
+    <string name="layoutBasico_mensajeAlerta5">¿Cuándo fue la última vez que tuviste problemas significativos como...</string>
+    <string name="layoutBasico_mensajeAlerta6">¿Cuándo fue la última vez que hiciste las siguientes cosas dos o más veces?</string>
+    <string name="layoutBasico_mensajeAlerta7">¿Cuándo fue la última vez que....</string>
+    <string name="layoutBasico_mensajeAlerta8">Finalizar Test</string>
+
+    <string name="layoutBasico_mensajeAlerta12meses">Hay un error en tu respuesta. La cantidad de veces jugada en el último mes no puede ser mayor que la que jugaste en el último año.\nPor favor, escoge una opción.</string>
+    <string name="layoutBasico_mensajeAlertaUsuarioDuplicado">Con ese código ya hay registrado un test. ¿Quieres borrar el anterior test o introducir un nuevo código?</string>
+    <string name="layoutBasico_mensajeAlertaSinVicios">¿Estás seguro de que nunca has jugado a nada?</string>
+
+    <!-- números especiales -->
+    <string name="numero_51_99">51-99</string>
+    <string name="numero_100_ó_más">100 ó más</string>
+
+    <!-- ERRORES -->
+    <string name="error_CampoVacio">No puede estar el campo vacío</string>
+    <string name="error_Numero">Debe ser un número (sin ningún espacio)</string>
+    <string name="error_TiempoMayorQueCero">Debes de escoger un valor de tiempo mayor que cero</string>
+    <string name="error_TextoMinimo3caracteres">Mínimo tres caracteres</string>
+    <string name="error_RadioVacio">Debes escoger una de las opciones</string>
+
+    <string name="action_settings1">Settings</string>
+    <string name="title_activity_sincronizacion">Sincronización</string>
+</resources>
